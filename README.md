@@ -28,3 +28,5 @@ print("Hello World!")
 print("My name is...")
 ```
 Powyżej została użyta komenda `print`.
+
+![image](./xyz.jpg)

@@ -8,6 +8,6 @@ def test_dodaj():
 
 
 def test_pierwiastek():
-    assert main.pierwiastek(-1) == "Nie da się policzyć pierwiastka."
+    assert main.pierwiastek(-1) == 'Nie da się policzyć pierwiastka.'
     assert main.pierwiastek(3) == 1.7320508075688772
     assert main.pierwiatek(81) == 9.0

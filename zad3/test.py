@@ -1,4 +1,4 @@
-import main
+from main import dodaj
 
 def test_dodaj():
     assert dodaj(3, 5) == 8

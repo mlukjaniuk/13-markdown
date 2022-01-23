@@ -1,7 +1,12 @@
-def suma(a,b):
-    return (a+b)
+import math
 
+def dodaj(a, b):
+    suma = a+b
+    print(suma)
 
-a=3
-b=5
-suma(a,b)
+def pierwiastek(a):
+    if a < 0:
+        print("Nie da się policzyć pierwiastka.")
+    else:
+        print(math.sqrt(a))
+

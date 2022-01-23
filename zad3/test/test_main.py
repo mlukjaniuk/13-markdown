@@ -1,4 +1,5 @@
-import main
+import sys
+sys.path.append('./main')
 
 
 def test_dodaj():
